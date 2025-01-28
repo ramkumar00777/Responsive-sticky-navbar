@@ -18,4 +18,4 @@ navLinks.forEach((link) => {
   });
 });
 
-
+console.log("Implementing changes in script.js")
