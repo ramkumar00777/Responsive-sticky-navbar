@@ -18,8 +18,8 @@ navLinks.forEach((link) => {
   });
 });
 
-
 console.log("Implementing changes in script.js")
+console.log("Implementing changes in script.js");
 
 // commmit in feature/dnd file
 
@@ -27,4 +27,3 @@ console.log("Implementing changes in feature/dnd file");
 
 // implemented stash successsfully
 console.log("Some changes has been learned from stash");
-
